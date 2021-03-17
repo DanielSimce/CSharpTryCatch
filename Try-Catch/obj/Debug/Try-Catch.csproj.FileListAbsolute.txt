@@ -1,0 +1,5 @@
+D:\Trening C#\W3Schools\Try-Catch\Try-Catch\bin\Debug\Try-Catch.exe.config
+D:\Trening C#\W3Schools\Try-Catch\Try-Catch\bin\Debug\Try-Catch.exe
+D:\Trening C#\W3Schools\Try-Catch\Try-Catch\bin\Debug\Try-Catch.pdb
+D:\Trening C#\W3Schools\Try-Catch\Try-Catch\obj\Debug\Try-Catch.exe
+D:\Trening C#\W3Schools\Try-Catch\Try-Catch\obj\Debug\Try-Catch.pdb
